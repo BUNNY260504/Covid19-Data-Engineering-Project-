@@ -1,7 +1,5 @@
 # Covid19-Data-Engineering-Project
 
-# COVID-19 Data Engineering Pipeline (Azure)
-
 ## 📌 Project Overview
 This project demonstrates an **end-to-end Azure Data Engineering pipeline** built to ingest, transform, store, and analyze COVID-19 data for reporting and analytics use cases.
 
